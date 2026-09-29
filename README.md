@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm FERDIAN
 </h1>
+<h3 align="center">🌟 Always Learning and Exploring New Tech! 👨‍💻</h3>
 
 <br>
 
